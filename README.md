@@ -13,7 +13,3 @@ Platform Engineer based in São Paulo, Brazil. I hold a Master's degree in **Com
 ## Tech Stack
 
 `Python` · `TypeScript` · `Node.js` · `Docker` · `Kubernetes` · `Terraform` · `AWS` · `GitHub Actions` · `CI/CD` · `Linux`
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcusandre-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusandre/)
