@@ -6,7 +6,7 @@ Platform Engineer based in São Paulo, Brazil. I hold a Master's degree in **Com
 
 ## What I'm Working On
 
-**[OpenClaw](https://github.com/openclaw/openclaw)** — Active open-source contributor to this AI assistant platform. My contributions span WhatsApp integrations, UI improvements, CI pipeline optimization, session management, and shell security hardening.
+**[OpenClaw](https://github.com/openclaw/openclaw)** — Maintainer of this open-source AI assistant platform. I triage and resolve issues across a high-volume backlog, review and ship community PRs under strict quality gates, and help defend the core/extension boundary so third-party plugins stay stable. My contributions span WhatsApp integrations, UI improvements, CI pipeline optimization, session management, and shell security hardening.
 
 **[SPKMC](https://github.com/mcaxtr/spkmc)** — A high-performance epidemic simulation tool I built during my master's research. It implements the Shortest Path Kinetic Monte Carlo algorithm for modeling disease spread on complex networks, with GPU acceleration via RAPIDS cuGraph, experiment-driven workflows, and publication-quality visualizations.
 
